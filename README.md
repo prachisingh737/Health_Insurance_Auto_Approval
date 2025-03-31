@@ -17,7 +17,7 @@ Data Normalization: Applied StandardScaler to numerical features
 
 * EDA - EDA allowed us to spot trends, understand data distributions, and check for any anomalies or outliers. 
 
-* Conclusion - In conclusion, this project successfully developed a predictive model to streamline prior authorization approvals, allowing Cohere Pets to make faster and more accurate decisions in veterinary care. Through exploratory data analysis, we identified important trends and influential features that impact approval outcomes, enabling us to better understand and optimize the authorization process. The model’s insights have the potential to reduce delays, improve client satisfaction, and create cost savings by automating routine decisions. Moving forward, incorporating additional data and continuously refining the model will help maintain its effectiveness and adaptability, further solidifying Cohere Pets' position as a leader in technology-driven veterinary care.
+* Conclusion - In conclusion, this project successfully developed a predictive model to streamline prior authorization approvals, allowing to make faster and more accurate decisions in veterinary care. Through exploratory data analysis, we identified important trends and influential features that impact approval outcomes, enabling us to better understand and optimize the authorization process. The model’s insights have the potential to reduce delays, improve client satisfaction, and create cost savings by automating routine decisions. Moving forward, incorporating additional data and continuously refining the model will help maintain its effectiveness and adaptability.
 
 
 
